@@ -1204,6 +1204,11 @@
     "@types/react-native" "*"
     csstype "^2.2.0"
 
+"@types/subtitle@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@types/subtitle/-/subtitle-2.0.2.tgz#4df70f2a7db3df55c6e692ebce8b240dc4c862bd"
+  integrity sha512-qmQUnwQ9+WQA/3RyzAFZ6ZUaO9g6iTUb6aW+4B1KSr5rhLsY+B1z/8CHOFND91R5pbEISuJPFoFXvPwu9eLNvw==
+
 "@types/yargs-parser@*":
   version "15.0.0"
   resolved "https://registry.yarnpkg.com/@types/yargs-parser/-/yargs-parser-15.0.0.tgz#cb3f9f741869e20cce330ffbeb9271590483882d"
@@ -6891,6 +6896,13 @@ styled-components@^5.1.0:
     shallowequal "^1.1.0"
     supports-color "^5.5.0"
 
+subtitle@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/subtitle/-/subtitle-2.0.3.tgz#1fed16180273e60dc4be320ecc8ec2f90a51a28d"
+  integrity sha512-NAQVYcWOGky/zEv37EGaTk6VK3WmD3m9JGILLcoh2YTAnXTcVhvNilAWPcqVKtWhmi3zYOBLSGa+3ufetLFrsA==
+  dependencies:
+    zero-fill "^2.2.3"
+
 sudo-prompt@^9.0.0:
   version "9.2.1"
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-9.2.1.tgz#77efb84309c9ca489527a4e749f287e6bdd52afd"
@@ -7648,3 +7660,8 @@ yargs@^14.2.0:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^15.0.1"
+
+zero-fill@^2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/zero-fill/-/zero-fill-2.2.3.tgz#a3def06ba5e39ae644850bb4ca2ad4112b4855e9"
+  integrity sha1-o97wa6XjmuZEhQu0yirUEStIVek=
